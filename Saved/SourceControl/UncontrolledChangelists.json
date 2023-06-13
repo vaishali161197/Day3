@@ -7,7 +7,17 @@
 			"files": [
 				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/NewWorld.umap",
-				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/BasicLevel.umap"
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/BasicLevel.umap",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/FirstMaterial.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_roughness.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_preview.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_normal-dx.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_metallic.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_height.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_ao.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Textures/sloppy-mortar-bricks_albedo.uasset",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/EF_Edie/Maps/DemoMap.umap",
+				"C:/Users/vaish/OneDrive/Documents/Unreal Projects/MyProject/Content/Steelmaterial.uasset"
 			]
 		}
 	]
